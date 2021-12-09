@@ -1,4 +1,4 @@
 
 # Portfolio site.
 
-http://www.drfahadmalik.com
+https://drfahadmalik.com
